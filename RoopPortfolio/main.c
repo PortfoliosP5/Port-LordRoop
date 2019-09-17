@@ -11,6 +11,7 @@
 #include "DataTypesIOLab.h"
 #include "PythagoreanLabRoop.h"
 
+// start
 int main(int argc, const char * argv[]) { //simple script to get user input to choose which lab they'd like
     int input, endOrNo, validInput;
     endOrNo = 0;
