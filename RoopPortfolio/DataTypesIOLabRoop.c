@@ -8,5 +8,9 @@
 
 #include "DataTypesIOLab.h"
 int datatypes(void) {
+    
+    printf("lab is a work in progress\n");
+    
     return 0;
 }
+
