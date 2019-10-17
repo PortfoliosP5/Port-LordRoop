@@ -81,6 +81,8 @@
 		23581CF6235135B700B55680 /* StoryBoards */ = {
 			isa = PBXGroup;
 			children = (
+				2370777D234FBD8D00A2FE29 /* Main.storyboard */,
+				23707782234FBD8E00A2FE29 /* LaunchScreen.storyboard */,
 			);
 			path = StoryBoards;
 			sourceTree = "<group>";
@@ -129,9 +131,7 @@
 		23707776234FBD8C00A2FE29 /* IOSTestProject */ = {
 			isa = PBXGroup;
 			children = (
-				2370777D234FBD8D00A2FE29 /* Main.storyboard */,
 				23707780234FBD8E00A2FE29 /* Assets.xcassets */,
-				23707782234FBD8E00A2FE29 /* LaunchScreen.storyboard */,
 				23707785234FBD8E00A2FE29 /* Info.plist */,
 				23707786234FBD8E00A2FE29 /* main.m */,
 			);
